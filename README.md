@@ -1,6 +1,6 @@
 # Antonio Fonseca
 
-![Antonio Fonseca](progile.jpg)
+![Antonio Fonseca](profile.jpg)
 
 ## Education
 
