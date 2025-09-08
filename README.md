@@ -1,6 +1,6 @@
 # Antonio Fonseca
 
-![Antonio Fonseca] (https://clarkuedu-my.sharepoint.com/:i:/g/personal/antfonseca_clarku_edu/EVAQjjngDtdDi6t6OOW_vcMBF6gFJxrgx0VhaUDqiYzY8Q?e=chQQAD)
+![Antonio Fonseca](./progile.jpg)
 
 ## Education
 
